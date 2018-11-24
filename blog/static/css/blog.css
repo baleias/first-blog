@@ -6,7 +6,11 @@ p {
   margin-right: auto;
 
 }
-
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .page-header {
     background-color: #DD5B6E;
     margin-top: 0;
@@ -26,7 +30,7 @@ p {
 
 h1, h2, h3, h4 {
     font-family: 'Oswald', cursive;
-    color: #297373;
+    color: #000000;
     display: block;
     margin-left: auto;
     margin-right: auto;
